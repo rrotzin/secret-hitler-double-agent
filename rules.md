@@ -14,22 +14,6 @@ It is a little strange. But what if things could have been different? What if th
 
 The Secret Hitler: Double Agent Double Trouble expansion pack introduces a special new role: the Double Agent. The Double Agent is on the Liberal team, but has infiltrated the Fascist party. Will the Double Agent be discovered and purged? Will the Double Agent assassinate Secret Hitler? Will the Liberal-Fascist conflict come to a relatively boring legislative conclusion? Only you, your party, and that accursed stack of policies can decide.
 
-This expansion is free. The original game's website, where you can print a free version of the game, is [here](https://secrethitler.com). You can also buy the game, which, you know, supports the creators and stuff.
-
-
-## Materials
-
-To play this expansion pack, you'll need to replace cards in one Liberal envelope: the Liberal role card needs to become a Double Agent role card, and the Liberal party membership card needs to become a Fascist party membership card. (The Double Agent has done a very good job infiltrating. They remain truly Liberal in their heart, and they still win with the Liberals.)
-
-But since you probably don't have any extra cards laying around, try this:
-
-* Buy some card [sleeves](https://www.amazon.com/gp/product/B072ZY1H1X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). 
-* Use the print and play edition of Secret Hitler to print yourself one Fascist party membership card and one Liberal role card on plain paper. ([This version](http://william.money/secret/secret-hitler-print-n-play-color.pdf) from a [kind redditor](https://www.reddit.com/r/boardgames/comments/3yepx7/i_made_a_print_and_play_secret_hitler/) is in color, which is nice.)
-* Get creative to turn the Liberal role card into a Double Agent card. Use some art supplies or a presidential sharpie or something.
-* Insert your new role and party membership cards atop the old ones inside sleeves. The Double Agent envelope is complete.
-* Maybe you'll now bring up that the two extra sheets of paper will make the Double Agent envelope a little bit thicker, perhaps perceptibly, and this could out the Double Agent. Well, maybe you can also bring up a way to deal with that yourself. You sure sound like a smart cookie.
-
-You'll also need to have about five slips of paper and five pens or pencils ready.
 
 ## Setup
 
@@ -74,18 +58,5 @@ Once a Purge is initiated, the main gameplay of Secret Hitler is over, and the P
 
 Best wishes for keeping your friendships intact.
 
-## Thank You
-
-Thank you for being willing to try this expansion. Testing it will help us figure out if it sucks in some way we overlooked.
-
-If you care to tell us how your game went, please use the game report survey you'll find here: http://william.money/secret/survey
 
 This expansion was created by: Micah Webber, Sarah Feero, and William Proffitt.
-
-
-## Rules Version History
-
-* `2019-004` Major change-up: removed Fascist Traitor Assassination, added the Purge, got rid of Double Agent having two party membership cards for now 2019-09-29
-* `2019-003` Created a rule to avoid race condition: presidential power must be used before a Fascist Traitor Assassination can happen 2019-03-17
-* `2019-002` First rule tweak: no benefit beyond killing double agent for successful double agent kill, and therefore no double agent reveal 2019-02-20
-* `2019-001` Original rules, first played 2019-01-27
