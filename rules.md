@@ -1,7 +1,5 @@
 # Secret Hitler: Double Agent Double Trouble Expansion Pack
 
-Rules version: `2019-004`
-
 
 ## Intro
 
@@ -57,6 +55,8 @@ Once a Purge is initiated, the main gameplay of Secret Hitler is over, and the P
 * **Desperation Purge**: If the Liberal party has the upper hand and is on the verge of winning, it is wise for Secret Hitler to initiate a Purge, even if there is no clarity as to the identity of the Double Agent. The Purge becomes a political mini-game in this case, during which the bluffing skills of the Double Agent are pivotal.
 
 Best wishes for keeping your friendships intact.
+
+
 
 
 This expansion was created by: Micah Webber, Sarah Feero, and William Proffitt.
